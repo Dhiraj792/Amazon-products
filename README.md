@@ -85,7 +85,7 @@ For queries or collaboration:
 - **GitHub:**https://github.com/Dhiraj792
 - **Email:** dhirajbadre@gmail.com
 
----
 
-> ⚠️ This project is for educational and demonstration purposes only. The data is assumed to be publicly shareable.
+
+
 
